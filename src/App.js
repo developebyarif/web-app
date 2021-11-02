@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>React JS Hosted Web app</p>
+        <p>Testing CI / CD Pipeline Rules.</p>
       </header>
     </div>
   );
